@@ -48,7 +48,7 @@ const values = ref([
   { type: 'br', content: '' },
   {
     type: 'a',
-    content: ['Meu Instagram, onde post dicas de cursos e materiais para aprender Vue', 'https://www.instagram.com/juulydev/profilecard/?igsh=eGFteHhrOXQ2eGoz']
+    content: ['Meu Instagram, onde posto dicas de cursos e materiais para aprender Vue', 'https://www.instagram.com/juulydev/profilecard/?igsh=eGFteHhrOXQ2eGoz']
   },
   { type: 'br', content: '' },
   {
